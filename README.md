@@ -1,4 +1,4 @@
-# typescript-shared-cnfigurations
+# typescript-shared-configurations
 
 ## Motivation
 
