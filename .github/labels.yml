@@ -1,0 +1,34 @@
+# カラーコードはhttps://www.colordic.org/とかで調べる。
+labels:
+    - name: enhancement
+      description: 機能追加など
+      color: 84b6eb
+    - name: document
+      description: ドキュメントの作成、修正
+      color: 4169e1
+    - name: common
+      description: 全体に及ぶ構成変更や設定追加等
+      color: 00ff7f
+    - name: tsconfig
+      description: tsconfig系を示す分類
+      color: 0000ff
+    - name: eslint
+      description: eslint系を示す分類
+      color: f0f8ff
+    - name: typedoc
+      description: typedoc系を示す分類
+      color: ffa500
+    - name: prettier
+      description: prettier系を示す分類
+      color: 008000
+repos:
+    - name: smockoro/typescript-shared-configuration
+      labels:
+          - enhancement
+          - document
+          - common
+          - tsconfig
+          - eslint
+          - typedoc
+          - prettier
+
