@@ -22,7 +22,7 @@ labels:
       description: prettier系を示す分類
       color: 008000
 repos:
-    - name: smockoro/typescript-shared-configuration
+    - name: smockoro/typescript-shared-configurations
       labels:
           - enhancement
           - document
@@ -31,4 +31,3 @@ repos:
           - eslint
           - typedoc
           - prettier
-
